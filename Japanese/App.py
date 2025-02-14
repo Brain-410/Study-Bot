@@ -2,8 +2,6 @@ from tkinter import *
 import knowledge as informatiom
 import random
 
-# C:\Users\baidy\OneDrive - NSW Department of Education\Desktop\VS CODE\1. Non-C#\Python\Projects\Study\Japanese\App.py
-
 class todo:
     def __init__(self, root):
         self.root = root
