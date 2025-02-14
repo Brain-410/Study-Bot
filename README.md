@@ -1,1 +1,1 @@
-This is a study bot
+This is a study bot I made because I wanted to and I need to practice
